@@ -200,6 +200,14 @@ jupyter notebook Final_Malware_Code.ipynb
 
 This research has been **peer-reviewed and published at IEEE**. If you use this work, please cite accordingly.
 
+Citation:
+
+bibtexI. Singh Makkar, A. Kumar Sinha, T. Pratap and M. K. A,
+"Optimizing Android Malware Detection for Resource-Constrained Devices via a Two-Stage ML Pipeline,"
+2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE),
+Bengaluru, India, 2025, pp. 1-6,
+doi: 10.1109/ICICKE65317.2025.11136486.
+
 ---
 
 <div align="center">
