@@ -202,7 +202,8 @@ This research has been **peer-reviewed and published at IEEE**. If you use this 
 
 Citation:
 
-bibtexI. Singh Makkar, A. Kumar Sinha, T. Pratap and M. K. A,
+bibtex
+I. Singh Makkar, A. Kumar Sinha, T. Pratap and M. K. A,
 "Optimizing Android Malware Detection for Resource-Constrained Devices via a Two-Stage ML Pipeline,"
 2025 International Conference on Intelligent Computing and Knowledge Extraction (ICICKE),
 Bengaluru, India, 2025, pp. 1-6,
